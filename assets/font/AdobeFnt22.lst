@@ -1,0 +1,29 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NolingaRegular
+FamilyName:Nolinga
+StyleName:Regular
+FullName:Nolinga
+MenuName:Nolinga
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Artworks\QuantumTread Logo\Font\Nolinga.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:71108
+FileModTime:1714708115
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Nolinga
+NameArray:0,Win,1,Nolinga
+NameArray:0,Win,16,Nolinga
+%EndFont
+
